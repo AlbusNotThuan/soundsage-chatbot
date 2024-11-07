@@ -110,7 +110,7 @@ async def on_chat_start():
     # Initialize model and prompts
     model = ChatOpenAI(
         streaming=True,
-        model="gpt-4",
+        model="gpt-4o-mini",
         temperature=0.5,
     )
 
