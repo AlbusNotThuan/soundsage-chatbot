@@ -9,4 +9,3 @@ pypdf2
 chromadb
 tiktoken
 langchain-chroma
-sqlite3
